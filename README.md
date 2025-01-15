@@ -36,3 +36,5 @@ This issue is particularly relevant as rapid advances in AI technology, particul
 ```
 Model deployed on Hugging face. Deployment file can be found in deployment folder.
 ```
+
+<a href="https://huggingface.co/spaces/eldzilla/AIvsRealImage">HuggingFace Link</a>
