@@ -31,3 +31,8 @@ This issue is particularly relevant as rapid advances in AI technology, particul
 
 <a href="https://www.bravenewplanet.org/episodes/deepfakes-and-the-future-truth">JUSTIFICATION 1</a><br><br>
 <a href="https://daidac.thecjid.org/the-ethics-of-ai-generated-media-content-when-does-manipulation-go-too-far/">JUSTIFICATION 2</a>
+
+## DEPLOYMENT
+```
+Model deployed on Hugging face. Deployment file can be found in deployment folder.
+```
