@@ -34,7 +34,7 @@ Modeling: An artificial neural network (ANN) was used for classification, with a
 ## Model Performance
 After testing 20 different models, the final model with the best performance was an artificial neural network (ANN) with the SGD optimizer and dropout layers. It achieved an accuracy of 67% on the validation set. While the model performed reasonably well in most cases, it struggled to identify highly realistic AI-generated images, which remain a challenge in this task.
 
-## DEPLOYMENT
+## Deployment
 Model deployed on Hugging face. Deployment file can be found in deployment folder.
 
 <a href="https://huggingface.co/spaces/eldzilla/AIvsRealImage">HuggingFace Link</a>
