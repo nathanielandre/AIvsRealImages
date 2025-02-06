@@ -27,9 +27,9 @@ This issue is particularly relevant as rapid advances in AI technology, particul
 <a href="https://daidac.thecjid.org/the-ethics-of-ai-generated-media-content-when-does-manipulation-go-too-far/">JUSTIFICATION 2</a>
 
 ## Techniques Used
-Data Augmentation: Applied transformations to the original dataset to artificially increase the size and diversity of the training data.
-Data Preprocessing: Included resizing, normalization, and other preprocessing steps to ensure better model convergence.
-Modeling: An artificial neural network (ANN) was used for classification, with an emphasis on optimizing performance using the Stochastic Gradient Descent (SGD) optimizer and incorporating dropout for regularization.
+- Data Augmentation: Applied transformations to the original dataset to artificially increase the size and diversity of the training data.
+- Data Preprocessing: Included resizing, normalization, and other preprocessing steps to ensure better model convergence.
+- Modeling: An artificial neural network (ANN) was used for classification, with an emphasis on optimizing performance using the Stochastic Gradient Descent (SGD) optimizer and incorporating dropout for regularization.
 
 ## Model Performance
 After testing 20 different models, the final model with the best performance was an artificial neural network (ANN) with the SGD optimizer and dropout layers. It achieved an accuracy of 67% on the validation set. While the model performed reasonably well in most cases, it struggled to identify highly realistic AI-generated images, which remain a challenge in this task.
