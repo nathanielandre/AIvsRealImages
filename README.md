@@ -1,5 +1,5 @@
-# AIvsRealImages
-AI vs Real Images Classification
+# AI-Generated vs Real Image Classifier
+### This project focuses on building a machine learning model to classify images as either AI-generated or real. The goal was to develop a robust classifier that could handle a wide range of image types, using techniques like data augmentation, preprocessing, and artificial neural network (ANN) modeling.
 
 ## DATASET SOURCE
 ```
@@ -31,6 +31,18 @@ This issue is particularly relevant as rapid advances in AI technology, particul
 
 <a href="https://www.bravenewplanet.org/episodes/deepfakes-and-the-future-truth">JUSTIFICATION 1</a><br><br>
 <a href="https://daidac.thecjid.org/the-ethics-of-ai-generated-media-content-when-does-manipulation-go-too-far/">JUSTIFICATION 2</a>
+
+##Techniques Used
+```
+Data Augmentation: Applied transformations to the original dataset to artificially increase the size and diversity of the training data.
+Data Preprocessing: Included resizing, normalization, and other preprocessing steps to ensure better model convergence.
+Modeling: An artificial neural network (ANN) was used for classification, with an emphasis on optimizing performance using the Stochastic Gradient Descent (SGD) optimizer and incorporating dropout for regularization.
+```
+
+## Model Performance
+```
+After testing 20 different models, the final model with the best performance was an artificial neural network (ANN) with the SGD optimizer and dropout layers. It achieved an accuracy of 67% on the validation set. While the model performed reasonably well in most cases, it struggled to identify highly realistic AI-generated images, which remain a challenge in this task.
+```
 
 ## DEPLOYMENT
 ```
