@@ -26,7 +26,7 @@ This issue is particularly relevant as rapid advances in AI technology, particul
 <a href="https://www.bravenewplanet.org/episodes/deepfakes-and-the-future-truth">JUSTIFICATION 1</a><br><br>
 <a href="https://daidac.thecjid.org/the-ethics-of-ai-generated-media-content-when-does-manipulation-go-too-far/">JUSTIFICATION 2</a>
 
-##Techniques Used
+## Techniques Used
 Data Augmentation: Applied transformations to the original dataset to artificially increase the size and diversity of the training data.
 Data Preprocessing: Included resizing, normalization, and other preprocessing steps to ensure better model convergence.
 Modeling: An artificial neural network (ANN) was used for classification, with an emphasis on optimizing performance using the Stochastic Gradient Descent (SGD) optimizer and incorporating dropout for regularization.
